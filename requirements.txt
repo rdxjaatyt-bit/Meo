@@ -1,2 +1,2 @@
 pyTelegramBotAPI
-python boy.py
+python bot.py
