@@ -1,0 +1,9 @@
+ls
+unzip 'VPS FILE LEAK WORKING.zip'
+ls
+cd 'VPS FILE LEAK WORKING'
+ls
+pip install telebot
+chmod +x *
+ls
+python m.py
