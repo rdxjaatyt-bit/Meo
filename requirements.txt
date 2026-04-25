@@ -1,6 +1,0 @@
-pyTelegramBotAPI
-pip install pymongo
-pip install pytz
-pip install asyncio
-chmod +x *
-python bot.py
