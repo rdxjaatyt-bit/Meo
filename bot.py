@@ -268,7 +268,7 @@ def attack_command(message):
             f"🎯 *Target:* {ip}:{port}\n"
             f"⏰ *Duration:* {duration}s\n"
             f"⏳ *Time left:* {duration}s\n"
-            f"🔧 *Threads:* 500\n\n"
+            f"🔧 *Threads:* 9000\n\n"
             f"🟢 *Free Slots:* {remaining_slots}/{MAX_ACTIVE_ATTACKS}\n"
             f"📊 *Slot Status:* {remaining_slots}/{MAX_ACTIVE_ATTACKS} free",
             parse_mode="Markdown"
